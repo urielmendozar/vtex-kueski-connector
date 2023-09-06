@@ -1,6 +1,6 @@
 {
   "name": "kueski-connector",
-  "vendor": "vtex",
+  "vendor": "kueskipaypartnermx",
   "version": "1.2.1-beta.0",
   "title": "PP Kueski",
   "description": "Reference app for Payment-Provider protocol implementers",
