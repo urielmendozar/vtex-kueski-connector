@@ -1,0 +1,9 @@
+{
+  "name": "kueski-connector",
+  "paymentMethods": [  
+    {
+        "name": "Promissories",
+        "allowsSplit": "disabled"
+    }
+  ]
+}
